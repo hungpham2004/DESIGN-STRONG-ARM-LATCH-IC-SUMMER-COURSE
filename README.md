@@ -1,2 +1,11 @@
 # IC-SUMMER-COURSE
+Tìm hiểu và sử dụng tool Siemens Tanner cho thiết kế mạch tương tự với l-edit và s-edit
+Thực hiện đồ án cuối khóa: Thiết kế mạch Strong-Arm Latch trên công nghệ 250nm
 1. Mục tiêu
+- Tìm hiểu và nắm vững nguyên lý hoạt động của mạch StrongArm Latch. Mô phỏng mạch StrongArm Latch bằng tool Siemens. Thông qua môi trường này, nhóm sẽ tiến hành xây dựng sơ đồ nguyên lý, sau đó sử dụng các phân tích như trans, DC để quan sát quá trình so sánh và tạo đầu ra của mạch. 
+- Làm rõ những ưu điểm nổi bật của mạch StrongArm Latch như tốc độ cao, tiết kiệm năng lượng nhờ không tiêu tốn dòng điện tĩnh trong trạng thái nghỉ, và tính phù hợp trong các thiết kế mạch tích hợp hiện đại. Nghiên cứu các ứng dụng thực tế của mạch trong các bộ chuyển đổi tương tự – số như Flash ADC hoặc SAR ADC, nơi StrongArm Latch đóng vai trò là bộ so sánh tốc độ cao.
+Đề tài hướng tới việc đề xuất một số hướng tối ưu hóa thiết kế mạch dựa trên kết quả mô phỏng, chẳng hạn như thay đổi kích thước MOSFET, điều chỉnh Clock, hoặc cải tiến cấu trúc nhằm giảm thời gian trễ. Điều này giúp đề tài không chỉ dừng lại ở mức phân tích mà còn có tính ứng dụng và mở rộng trong thiết kế mạch tích hợp chuyên sâu.
+- Đề tài hướng tới việc đề xuất một số hướng tối ưu hóa thiết kế mạch dựa trên kết quả mô phỏng, chẳng hạn như thay đổi kích thước MOSFET, điều chỉnh Clock, hoặc cải tiến cấu trúc nhằm giảm thời gian trễ. Điều này giúp đề tài không chỉ dừng lại ở mức phân tích mà còn có tính ứng dụng và mở rộng trong thiết kế mạch tích hợp chuyên sâu.
+2. Nhận xét cuối khóa
+-Thông qua quá trình mô phỏng mạch StrongArm latch trên nền tảng sử dụng Siemens Tanner EDA Tool, nhóm đã hiểu rõ hơn về nguyên lý hoạt động của mạch, đặc biệt là cơ chế khuếch đại hồi tiếp dương và quá trình ra quyết định của latch. Đồng thời nhóm cũng hiểu rõ hơn về quy trình khi làm việc với tool thông qua việc thực hiện đồ án. Việc quan sát mô phỏng dòng điện, điện áp và trạng thái của các node trong mạch giúp nhóm củng cố kiến thức về hoạt động của các mạch so sánh nhanh trong thực tế, cũng như vai trò của StrongArm latch trong hệ thống ADC.
+Từ nền tảng hiểu biết này, nhóm có thể tiếp tục nghiên cứu và phát triển các mạch phức tạp hơn từ những kiến thức đã có từ mô phỏng.
