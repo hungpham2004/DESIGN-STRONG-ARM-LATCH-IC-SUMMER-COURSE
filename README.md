@@ -1,0 +1,2 @@
+# IC-SUMMER-COURSE
+1. Mục tiêu
