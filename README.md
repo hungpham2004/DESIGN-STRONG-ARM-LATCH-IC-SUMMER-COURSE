@@ -1,4 +1,4 @@
-# IC-SUMMER-COURSE
+# DESIGN STRONG-ARM LATCH USING SIEMENS TANNER EDA TOOL 250NM (IC-SUMMER-COURSE)
 Tìm hiểu và sử dụng tool Siemens Tanner cho thiết kế mạch tương tự với l-edit và s-edit
 Thực hiện đồ án cuối khóa: Thiết kế mạch Strong-Arm Latch trên công nghệ 250nm
 1. Mục tiêu
